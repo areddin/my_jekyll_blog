@@ -5,3 +5,8 @@ post_text: "**WOW** this is a great post! \n\n* It's got a title\n* and a date\n
   and text"
 
 ---
+**WOW** this is a great post!
+
+* It's got a title
+* and a date
+* and text
