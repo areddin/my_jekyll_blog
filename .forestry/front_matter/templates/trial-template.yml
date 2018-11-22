@@ -1,0 +1,28 @@
+---
+label: Trial template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: The title for the post
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  description: Date of post
+  config:
+    date_format: YYYY-MM-DD
+    time_format: HH:MM
+    required: true
+- type: textarea
+  label: Post Text
+  name: post_text
+  description: The text of the post
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
