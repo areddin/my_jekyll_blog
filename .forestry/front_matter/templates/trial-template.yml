@@ -20,7 +20,7 @@ fields:
 - type: textarea
   label: Post Text
   name: post_text
-  description: The text of the post
+  description: The text of the post - This isn't handled by anything!
   config:
     required: true
     wysiwyg: true
