@@ -26,3 +26,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- _posts/andy-s-first-trial-post.md
